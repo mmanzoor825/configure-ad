@@ -47,7 +47,7 @@ Now lets create a user in the domain. Go to Tools > Active Directory Users and C
 <p>
 <img width="241" alt="image" src="https://github.com/mmanzoor825/configure-ad/assets/138532574/b186c98f-0ad1-442b-9568-b7c6d51b37b5">
 
-Now we will add a separate user computer on the network to the domain. First assign the server a static IP address. Then we have to change the DNS server of the client machine to the IP address of the server. Next go to file explorer and right-click This PC. Click properties and scroll down to "Rename this PC (advanced)". Click change and type the name of the domain. Next you will be prompted to enter valid credentials to enter the domain.
+Now we will add a separate user computer on the network to the domain. First assign the server a static IP address. Then we have to change the DNS server of the client machine to the IP address of the server. Next go to file explorer and right-click This PC. Click properties and scroll down to "Rename this PC (advanced)". Click change and type the name of the domain. Next you will be prompted to enter valid credentials to enter the domain. Restart will be required.
 </p>
 <br />
 
